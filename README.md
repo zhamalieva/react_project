@@ -16,6 +16,8 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
+
+
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
@@ -68,6 +70,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react_bonus
-# react_bonus
-# reactions
+
+
+
+
+Frameworks
+
+Next.js – React framework for building performant apps with the best developer experience
+Auth.js – Handle user authentication with ease with providers like Google, Twitter, GitHub, etc.
+Platforms
+
+Vercel – Easily preview & deploy changes with git
+UI
+
+Tailwind CSS – Utility-first CSS framework for rapid UI development
+Headless UI – Primitives like modal, popover, etc. to build a stellar user experience
+Heroicons – Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+Code Quality
+
+Prettier – Opinionated code formatter for consistent code style
+ESLint – Pluggable linter for Next.js
+Miscellaneous
+
+Vercel Analytics – Track unique visitors, pageviews, and more in a privacy-friendly way
+Inspirations/Further Resources
+
+Predecent - Steven Tey's next.js starter project
+Chatbot UI - open-source ChatGPT clone
+Vercel AI Chat GPT-3 example
+
+
